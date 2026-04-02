@@ -33,10 +33,9 @@ https://shamila0825.github.io/Population-Density-Map-of-Sri-Lanka---2024/
 ---
 
 ## 📌 How to Use
-1. Open `index.html` in a web browser  
+1. Open the link above in a web browser 
 2. **Hover over map areas** to view population density details in a pop-up  
 3. **Click on map areas** to zoom into that region  
-4. Pan and explore the whole country interactively
 
 ---
 
