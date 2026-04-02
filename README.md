@@ -1,9 +1,6 @@
 # Population-Density-Map-of-Sri-Lanka---2024
-Interactive population density map of Sri Lanka (2024) using Leaflet and QGIS-based analysis.
 
-# Population Density Map of Sri Lanka (2024)
-
-This project presents an **interactive population density map of Sri Lanka (2024)**. The map shows how population is distributed across different areas of the country, helping users understand spatial patterns of population density.
+This project presents an **interactive population density map of Sri Lanka (2024)**. The map shows how the population is distributed across different areas of the country, helping users understand spatial patterns of population density.
 
 The population data was obtained from the **Department of Census and Statistics Sri Lanka**. Population density was calculated using **QGIS** and Web GIS techniques, and the interactive web map was created using **Leaflet**, allowing users to explore the data dynamically.
 
@@ -19,13 +16,13 @@ The population data was obtained from the **Department of Census and Statistics 
 ## 📊 Key Features
 - Population density calculation (people per km²)  
 - **Hover over areas to see detailed information**  
-- **Click on areas to zoom in** for closer view  
+- **Click on areas to zoom in** for a closer view  
 - User-friendly interface for exploring spatial data  
 
 ---
 
 ## 📁 Data Source
-- **Department of Census and Statistics Sri Lanka** – population data 2024  
+- **Department of Census and Statistics, Sri Lanka** – population data 2024  
 
 ---
 
@@ -37,7 +34,7 @@ https://shamila0825.github.io/Population-Density-Map-of-Sri-Lanka---2024/
 
 ## 📌 How to Use
 1. Open `index.html` in a web browser  
-2. **Hover over map areas** to view population density details in a popup  
+2. **Hover over map areas** to view population density details in a pop-up  
 3. **Click on map areas** to zoom into that region  
 4. Pan and explore the whole country interactively
 
